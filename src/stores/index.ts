@@ -11,7 +11,7 @@ export default pinia
 
 // 导出所有store
 export * from './modules/user'
-// export * from './modules/article'
+export * from './modules/article'
 // export * from './modules/app'
 
 // 安装函数
